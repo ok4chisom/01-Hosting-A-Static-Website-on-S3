@@ -1,11 +1,10 @@
 <h1>Hosting a Static Website on S3</h1>
 <!--
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
---!>
+
 <h2>Description</h2>
 A new startup business in North America has recruited you to help with the launch of a quick-access, low-cost static website. You've decided to complete this contract by hosting and deploying their website utilizing AWS S3
-<br />
-
+-->
 
 <h2>Solution Overview</h2>
 
